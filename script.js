@@ -1,5 +1,4 @@
-const TELEGRAM_BOT_TOKEN = '7731248083:AAFSbM3YKJuWb3kwqAQg1OGmySjf9mUFTaw';
-const TELEGRAM_CHAT_ID = '6502310633';
+
 const API_SEND_PHOTO = `https://winter-hall-f9b4.jayky2k9.workers.dev/bot${TELEGRAM_BOT_TOKEN}/sendPhoto`;
 
 const info = {
